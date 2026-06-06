@@ -2,6 +2,8 @@ Lessons Learnt
 - How Role-based Prompting can elevate the quality, structure and response of your prompt
 - Why giving the AI model a role to assume helps to align responses more accurately
 - The quality of the response depends on the quality of the prompt
+
+Tools Used
 - Claude usage tracker
 
 
